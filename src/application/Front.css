@@ -1,0 +1,23 @@
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #e2e2e2;
+}
+
+.button {
+    -fx-text-fill: #e2e2e2;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: #40b136;
+}
+
+.button:hover {
+	-fx-text-fill: #ffffff;
+    -fx-background-color: #35c81d; 
+}
+
+#analyticstitle {
+	   -fx-font-size: 36px;
+    -fx-font-weight: bold;
+    -fx-fill: #e2e2e2;
+}
